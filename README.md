@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **rakeshvejendla333@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oJNFPtwQkXk5wNHtSZpQ-ZjhTSOHxEbG/view?usp=sharing](https://drive.google.com/file/d/1oJNFPtwQkXk5wNHtSZpQ-ZjhTSOHxEbG/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1oJNFPtwQkXk5wNHtSZpQ-ZjhTSOHxEbG/view?usp=sharing" target="_blank">View My Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

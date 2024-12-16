@@ -29,6 +29,31 @@
     </td>
   </tr>
 </table>
+<h2 align="center">🚀 Software Development Workflow</h2>
+
+<p align="center">
+  Below is a visual representation of the key stages in a software development workflow.
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Planning" width="100" />
+      <br />
+      <b>Planning</b>
+    </td>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/213760697-1dc03683-ba49-44f2-985e-95fd5ec22d3f.gif" alt="Development" width="100" />
+      <br />
+      <b>Development</b>
+    </td>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" alt="Deployment" width="100" />
+      <br />
+      <b>Deployment</b>
+    </td>
+  </tr>
+</table>
 
 - 👨‍💻 All of my projects are available at [https://www.rakeshvejendla.com/](https://www.rakeshvejendla.com/)
 

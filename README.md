@@ -4,6 +4,31 @@
 <h3 align="center">📫 Connect With Me</h3> <p align="center">  <b>Email:</b> <a href="mailto:rakeshvejendla333@gmail.com">rakeshvejendla333@gmail.com</a><br/> <b>Phone:</b> +16605281315<br/> </p>
 <h1 align="center">Hi 👋, I'm Rakesh Vejendla</h1>
 <h3 align="center">A Passionate Full-Stack Developer Specializing in .NET, AI, and Cloud Solutions, Bringing Scalable Innovation to Life</h3>
+<h2 align="center">🚀 AI Workflow Process</h2>
+
+<p align="center">
+  Below is a visual representation of the AI workflow process I work with, integrating data processing, machine learning, and deployment.
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShMHhSM8L4KrGGMweYL40XZTPtuw9H0N7m_iwD6xcLfD6dJwEStD29RQTGOJyavYPf-g8&usqp=CAU" alt="Data Collection" width="300" />
+      <br />
+      <b>Data Collection</b>
+    </td>
+    <td align="center">
+      <img src="https://www.hfma.org/wp-content/uploads/2023/12/fathomimage-winter2023-hfm.jpg?w=600" alt="Model Training" width="300" />
+      <br />
+      <b>Model Training</b>
+    </td>
+    <td align="center">
+      <img src="0_PuscwCsUr09xZ0SJ.gif" alt="Deployment" width="300" />
+      <br />
+      <b>Deployment</b>
+    </td>
+  </tr>
+</table>
 
 - 👨‍💻 All of my projects are available at [https://www.rakeshvejendla.com/](https://www.rakeshvejendla.com/)
 

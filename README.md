@@ -1,3 +1,5 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" alt="Cool GIF" width="600"/> </div>
+<h3 align="center">📫 Connect With Me</h3> <p align="center"> <b>Name:</b> Rakesh Vejendla <br/> <b>Email:</b> <a href="mailto:rakeshvejendla333@gmail.com">rakeshvejendla333@gmail.com</a><br/> <b>Phone:</b> +16605281315<br/> </p>
 <h1 align="center">Hi 👋, I'm Rakesh Vejendla</h1>
 <h3 align="center">A Passionate Full-Stack Developer Specializing in .NET, AI, and Cloud Solutions, Bringing Scalable Innovation to Life</h3>
 

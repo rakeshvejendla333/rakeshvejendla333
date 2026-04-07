@@ -94,6 +94,14 @@
 
 <br>
 
+## 📈 Measurable Engineering Impact
+* ⚡ **Performance Optimization:** Reduced API response times by **~40%** by implementing distributed Redis caching layers.
+* ☁️ **Cloud Architecture:** Optimized Microsoft Azure resource allocations, reducing monthly infrastructure compute costs by **~15%**.
+* 🗄️ **Database Efficiency:** Rewrote complex SQL Server queries and stored procedures, improving data retrieval performance by **~30%**.
+* 🔐 **Enterprise Security:** Architected dynamic RBAC and OAuth flows, preventing unauthorized access and ensuring strict data compliance.
+
+<br>
+
 ## ⏳ Career Journey
 
 | Year | Milestone |
@@ -198,14 +206,6 @@
 </div>
 
 <hr>
-
-<h3 align="center">☕ Support My Open Source Work</h3>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
-  <a href="https://github.com/sponsors/rakeshvejendla333"><img src="https://img.shields.io/badge/Sponsor_Me-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"/></a>
-</p>
-
-<br>
 
 <h3 align="center">🤝 Let's build something amazing together!</h3>
 <p align="center">

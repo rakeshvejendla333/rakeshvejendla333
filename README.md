@@ -64,7 +64,8 @@
 
 | Year | Milestone |
 | :---: | :--- |
-| **2025** | 🚀 **AI Full Stack Engineer** at Tek Advo Inc. & Nebraska Innovation Labs |
+| **Present** | 🚀 **AI Full Stack Engineer** at **Tek Advo Inc.** *(Currently leading AI/Web App development)* |
+| **2025** | 💻 **Full Stack Developer** at Nebraska Innovation Labs |
 | **2024** | 🎓 **Graduated Master's in Information Systems** & Achieved AWS Solutions Architect Certification |
 | **2023** | 🧠 Built AI-Powered Applications as a Research Assistant at NWMSU |
 | **2021** | 💼 **Software Developer** at Perigord Life Science Solutions |

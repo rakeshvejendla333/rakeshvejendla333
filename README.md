@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&h=300&fit=crop&q=80" alt="Coding Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Rakesh Vejendla</h1>
 
 <h3 align="center">
@@ -53,6 +57,17 @@
     </td>
   </tr>
 </table>
+
+<br>
+
+## ⏳ Career Journey
+
+| Year | Milestone |
+| :---: | :--- |
+| **2025** | 🚀 **AI Full Stack Engineer** at Tek Advo Inc. & Nebraska Innovation Labs |
+| **2024** | 🎓 **Graduated Master's in Information Systems** & Achieved AWS Solutions Architect Certification |
+| **2023** | 🧠 Built AI-Powered Applications as a Research Assistant at NWMSU |
+| **2021** | 💼 **Software Developer** at Perigord Life Science Solutions |
 
 <br>
 
@@ -117,24 +132,9 @@
 
 <br>
 
-## 🚀 Workflow Architecture
-
-<table align="center">
-  <tr>
-    <th colspan="3" align="center">Software Development Workflow</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Planning" width="200" /><br /><b>Planning</b>
-    </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/213760697-1dc03683-ba49-44f2-985e-95fd5ec22d3f.gif" alt="Development" width="200" /><br /><b>Development</b>
-    </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" alt="Deployment" width="200" /><br /><b>Deployment</b>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
+</div>
 
 ---
 <p align="center">

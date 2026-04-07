@@ -29,6 +29,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,python,aws,azure,docker,git,redis,ts,cs&perline=12" alt="My Tech Stack Summary" />
+  </a>
+</p>
+
 ## 👨‍💻 About Me
 * 💼 **Current Focus:** Building dynamic, robust full-stack applications with AI integrations using **React, .NET, Node.js, and Python**.
 * ☁️ **Cloud Native:** I deploy scalable architectures on **AWS** and **Azure**.
@@ -152,6 +158,19 @@
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
+<br>
+
+<details>
+  <summary><b>💻 My Workspace/IDE Setup (Click to Expand)</b></summary>
+  <ul>
+    <li><b>OS:</b> High-Performance Windows Environment</li>
+    <li><b>Primary IDE:</b> VS Code (with GitHub Copilot, Prettier, Code Spell Checker)</li>
+    <li><b>Backend IDE:</b> Visual Studio Enterprise (for .NET & C#)</li>
+    <li><b>Terminal:</b> PowerShell / Git Bash Integration</li>
+    <li><b>API Testing:</b> Postman & Swagger UI</li>
+  </ul>
+</details>
 
 <br>
 

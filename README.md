@@ -86,6 +86,19 @@
 
 <br>
 
+## 📜 Certifications
+
+<p align="left">
+  <a href="https://aws.amazon.com/certification/" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-Certified_Solutions_Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified">
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft-Foundational_C%23-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Certification">
+  </a>
+</p>
+
+<br>
+
 ## 🛠️ Languages & Tools
 
 ### 🌐 Frontend & Mobile
@@ -136,6 +149,13 @@
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
 </div>
+
+<hr>
+
+<h3 align="center">🤝 Let's build something amazing together!</h3>
+<p align="center">
+  <a href="mailto:rakeshvejendla333@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-Let's_Talk-10b981?style=for-the-badge&logo=maildotru&logoColor=white" alt="Hire Me" /></a>
+</p>
 
 ---
 <p align="center">

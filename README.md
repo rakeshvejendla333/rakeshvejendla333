@@ -131,10 +131,10 @@
 ## 📜 Certifications
 
 <p align="left">
-  <a href="https://aws.amazon.com/certification/" target="_blank">
+  <a href="https://www.credly.com/badges/751f9581-c636-428d-9ce0-8d39901bc6c5/linked_in_profile" target="_blank">
     <img src="https://img.shields.io/badge/AWS-Certified_Solutions_Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified">
   </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+  <a href="https://www.freecodecamp.org/certification/fccd94f4e9b-3e0f-44b9-8730-aa0c4bd271f3/foundational-c-sharp-with-microsoft" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft-Foundational_C%23-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Certification">
   </a>
 </p>

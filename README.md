@@ -7,6 +7,10 @@
 </h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rakeshvejendla333&label=Profile%20Views&color=854CE6&style=flat-square" alt="Profile Views Counter" />
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/vejendlarakesh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -26,6 +30,29 @@
 * ☁️ **Cloud Native:** I deploy scalable architectures on **AWS** and **Azure**.
 * 🌱 **Currently Learning:** Advanced RAG patterns, LLM orchestration, and modern cloud deployment pipelines.
 * 💬 **Ask me about:** Microservices architecture, API design, Auth flows (JWT/OAuth), and building seamless user experiences.
+
+<br>
+
+## 🌟 Featured Projects
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>FindStreak</h3>
+      <p>An AI-Powered Job Platform with automated workflows, conversational AI, and LLM-driven career tools. Built with Node.js, React, and OpenAI.</p>
+      <p>
+        <a href="https://findstreak.com"><img src="https://img.shields.io/badge/Live_Demo-854CE6?style=for-the-badge" alt="Live Demo" /></a>
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3>SplitTek</h3>
+      <p>A full-stack React Native expense-sharing mobile app for Android/iOS with real-time sync, RBAC, Firebase, and group balances.</p>
+      <p>
+        <a href="https://github.com/rakeshvejendla333"><img src="https://img.shields.io/badge/GitHub_Repo-20232A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br>
 

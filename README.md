@@ -43,6 +43,17 @@
 
 <br>
 
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><b>🎓 Education</b><br>MSc. Information Systems</td>
+    <td align="center" width="25%"><b>☁️ Cloud Cert</b><br>AWS Solutions Architect</td>
+    <td align="center" width="25%"><b>💼 Experience</b><br>3+ Years Full Stack</td>
+    <td align="center" width="25%"><b>🤖 Specialty</b><br>AI Workflow Integration</td>
+  </tr>
+</table>
+
+<br>
+
 ## 📚 Current Reading & Up-skilling
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -187,6 +198,14 @@
 </div>
 
 <hr>
+
+<h3 align="center">☕ Support My Open Source Work</h3>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
+  <a href="https://github.com/sponsors/rakeshvejendla333"><img src="https://img.shields.io/badge/Sponsor_Me-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"/></a>
+</p>
+
+<br>
 
 <h3 align="center">🤝 Let's build something amazing together!</h3>
 <p align="center">

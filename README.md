@@ -37,6 +37,15 @@
 
 <br>
 
+## 📚 Current Reading & Up-skilling
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=17&duration=3000&color=10B981&center=true&vCenter=true&width=700&lines=📖+Reading:+Designing+Data-Intensive+Applications;🚀+Mastering:+Advanced+RAG+%26+Vector+Databases;☁️+Exploring:+Kubernetes+on+AWS+(EKS);🧠+Deep+Diving+into+OpenAI+\%26+LangChain" alt="Upskilling" />
+  </a>
+</div>
+
+<br>
+
 ## 🌟 Featured Projects
 
 <table align="center">
@@ -157,7 +166,6 @@
   <a href="mailto:rakeshvejendla333@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-Let's_Talk-10b981?style=for-the-badge&logo=maildotru&logoColor=white" alt="Hire Me" /></a>
 </p>
 
----
 <p align="center">
-  <i><a href="https://rakeshvejendla.com">Visit my full portfolio to see my projects in action.</a></i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=120&section=footer" width="100%" alt="Footer Wave" />
 </p>

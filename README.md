@@ -29,15 +29,6 @@
 
 <br>
 
-## 🏆 GitHub Trophies
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=rakeshvejendla333&theme=radical&no-bg=true&no-frame=true&margin-w=15)
-
-</div>
-
-<br>
-
 ## 📊 GitHub Analytics
 <div align="center">
 

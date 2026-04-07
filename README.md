@@ -10,9 +10,6 @@
   </a>
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rakeshvejendla333&label=Profile%20Views&color=854CE6&style=flat-square" alt="Profile Views Counter" />
-</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/vejendlarakesh" target="_blank">
